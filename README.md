@@ -1,4 +1,4 @@
-![Alt Text](https://data.whicdn.com/images/327824179/original.gif)
+![Mario Dancing](https://media2.giphy.com/media/YTtqB2j5EN7IA/200w.gif?cid=82a1493bs9vq6webrasfjgt4vyg86l174f2o62bvjsebywpx&rid=200w.gif&ct=g)
 
 - 🔭 I’m currently working as a systems integration developer;
 - 🌱 I’m currently learning some cool technologies (Golang, Elixir and Python);
