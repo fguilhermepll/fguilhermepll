@@ -1,4 +1,4 @@
-![Alt Text](https://i.gifer.com/origin/f3/f356b77ca32430618da6a3cad157bac0_w200.gif)
+![Alt Text](https://data.whicdn.com/images/327824179/original.gif)
 
 - 🔭 I’m currently working as a systems integration developer;
 - 🌱 I’m currently learning some cool technologies (Golang, Elixir and Python);
