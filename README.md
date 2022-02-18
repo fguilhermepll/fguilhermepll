@@ -1,4 +1,4 @@
-![Mario Dancing](https://media2.giphy.com/media/YTtqB2j5EN7IA/200w.gif?cid=82a1493bs9vq6webrasfjgt4vyg86l174f2o62bvjsebywpx&rid=200w.gif&ct=g)
+![Computer typing](https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif)
 
 - 🔭 I’m currently working as a systems integration developer (Java, JavaScript, SQL, Azure DevOps, IBM Integration Bus / MQ);
 - 🌱 I’m currently learning some cool technologies (Golang, Elixir and Python);
