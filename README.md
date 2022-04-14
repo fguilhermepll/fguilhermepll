@@ -3,5 +3,5 @@
 - 🔭 I’m currently working as a systems integration developer (Java, JavaScript, SQL, Azure DevOps, IBM Integration Bus / MQ);
 - 🌱 I’m currently learning some cool technologies (Elixir, Golang and Python);
 - 👯 I’m looking to collaborate on cool open source projects;
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/guilherme-freire-pll/);
+- 📫 How to reach me: Email / [Linkedin](https://www.linkedin.com/in/guilherme-freire-pll/);
 - ⚡ Always learning new things!
