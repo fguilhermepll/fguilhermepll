@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning some cool technologies (Elixir, F# and Python);
 - 👯 I’m looking to collaborate on cool open source projects;
 - 📫 How to reach me: Email / [Linkedin](https://www.linkedin.com/in/guilherme-freire-pll/);
-- ⚡ Always learning new things!
+- ⚡ Always interested on discussing and learning more about all kind of low-level tech!
